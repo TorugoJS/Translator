@@ -25,8 +25,6 @@ body {
     flex-direction: column;
     gap: 10px;
     margin: 5px;
-
-
 }
 
 h1 {
@@ -36,7 +34,6 @@ h1 {
     font-family: monospace;
     font-size: 40px;
     text-align: center;
-
 }
 
 .content {
@@ -48,8 +45,6 @@ h1 {
     flex-direction: column;
     gap: 5px;
     width: 180%;
-
-
 }
 
 .divSelects {
@@ -81,7 +76,6 @@ textarea {
     border-radius: 5px;
     resize: none;
 }
-
 button {
     padding: 10px;
     font-size: 18px;
@@ -93,12 +87,9 @@ button {
     cursor: pointer;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
 button:hover {
     opacity: 0.7;
-
 }
-
 @media (max-width: 1280px) {
     .container {
         width: 210px;
@@ -117,6 +108,5 @@ button:hover {
     button:hover {
         opacity: 0.7;
         background-color: aquamarine;
-
     }
 }
